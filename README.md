@@ -24,3 +24,5 @@ When the solenoid loses power it pushes the the steel ball into the metal detect
 As soon as the ball enters the coil the Arduino detects a frequency change from the Vout output of the metal detector circuit. 
 
 This change in frequency then causes the final relay to stop supplying current to the electromagnet that is holding the AirPods, that way you can catch them and use them as you please. 
+
+The electromagnet then magnetizes once again and waits for you to enter the correct sequence to stop magnetizing. 
