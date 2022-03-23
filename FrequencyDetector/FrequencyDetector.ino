@@ -27,33 +27,3 @@ void loop() {
     }
 }
 
-//Code Electromagnet
-//digitalWrite(relay_5V_pin,HIGH);
-// delay(3000);
-//  digitalWrite(relay_5V_pin,LOW);
-//  delay(3000);
-
-  //int originalFrequency = recordFrequency();
-//  for (int n = 0; n < 50; n++)
-//  {
-//    if (FreqCount.available()) 
-//    {
-//      frequency = FreqCount.read();
-//    }
-//  }
-//  Serial.println(frequency);
-//  delay(3000);
-//  FreqCount.end();
-//
-//  for (int n = 0; n < 50; n++)
-//  {
-//    FreqCount.begin(1000);
-//    if (FreqCount.available()) 
-//    {
-//      frequency2 = FreqCount.read();
-//    }
-//  }
-//  Serial.println(frequency2);
-//  delay(3000);
-//  FreqCount.end();
-//  //Serial.println(originalFrequency);
