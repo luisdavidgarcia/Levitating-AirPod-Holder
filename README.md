@@ -8,15 +8,14 @@ a correct piano key sequence.
 
 A demonstration of the entire system is shown below. 
 
-https://user-images.githubusercontent.com/87344382/159810264-3be7b63b-1494-4f92-8d15-21d4e4df96ad.mp4
-
-
 The cardboard box on the right-side of the footage is the where AirPods 
 are magnetizing onto using an electromagnet.
 
 However when the correct sequence is entered that is when the other circuits in 
 system are triggered, and eventually cause the electromagnet to stop  
 magnetizing with the AirPods, so the AirPods drop and can be caught by the user. 
+
+https://user-images.githubusercontent.com/87344382/159810264-3be7b63b-1494-4f92-8d15-21d4e4df96ad.mp4
 
 
 An AirPod holder that makes your AirPods levitate. You can charge you AirPods 
