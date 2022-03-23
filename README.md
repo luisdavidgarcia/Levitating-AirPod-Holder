@@ -8,7 +8,8 @@ a correct piano key sequence.
 
 A demonstration of the entire system is shown below. 
 
-![AirPod Holder Demonstration](https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/RGM_Demo.mp4)
+https://user-images.githubusercontent.com/87344382/159810264-3be7b63b-1494-4f92-8d15-21d4e4df96ad.mp4
+
 
 The cardboard box on the right-side of the footage is the where AirPods 
 are magnetizing onto using an electromagnet.
