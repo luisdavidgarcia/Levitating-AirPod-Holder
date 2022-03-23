@@ -2,18 +2,13 @@
 
 ## Overview
 
-The levitating AirPod Holder is a Rube Goldberg machine project that lets you 
-create a cardboard AirPod stand to hold you AirPods in mid air, until you enter 
-a correct piano key sequence.
+The levitating AirPod Holder is a Rube Goldberg machine project that lets you  create a cardboard AirPod stand to hold you AirPods in mid air, until you enter a correct piano key sequence.
 
 A demonstration of the entire system is shown below. 
 
-The cardboard box on the right-side of the footage is the where AirPods 
-are magnetizing onto using an electromagnet.
+The cardboard box on the right-side of the footage is the where AirPods are magnetizing onto using an electromagnet.
 
-However when the correct sequence is entered that is when the other circuits in 
-system are triggered, and eventually cause the electromagnet to stop  
-magnetizing with the AirPods, so the AirPods drop and can be caught by the user. 
+However when the correct sequence is entered that is when the other circuits in system are triggered, and eventually cause the electromagnet to stop  magnetizing with the AirPods, so the AirPods drop and can be caught by the user. 
 
 https://user-images.githubusercontent.com/87344382/159810264-3be7b63b-1494-4f92-8d15-21d4e4df96ad.mp4
 
@@ -21,8 +16,7 @@ https://user-images.githubusercontent.com/87344382/159810264-3be7b63b-1494-4f92-
 An AirPod holder that makes your AirPods levitate. You can charge you AirPods 
 while they hang free in the air without worry of them falling or coming off easily 
 if the AirPods are pushed since the AirPods are held by an electromagnet similar to 
-[Apple Watch magnetic charger](https://www.apple.com/shop/product/MLWJ3AM/A/apple-watch-magnetic-fast-charger-to-usb-c-cable-1-m?fnode=2208a3f74724fa33198e29a17b1f3a3c42954541e1e18d408c15ce020bbe1ffb7f20a725ff6803d451b2b2cf065861b37722565385e5e1ae812c66dc35fa952064c5414a95d16900b6f75cc4df8177f9f0c4c5d48c881cd8cf9d78b46305a820999709c1c824e5f8bf7be8a9189ac629&fs=fh%3D4595%252B559a0f%252B45d4), 
-expect this charger makes your airpods levitate.
+[Apple Watch magnetic charger](https://www.apple.com/shop/product/MLWJ3AM/A/apple-watch-magnetic-fast-charger-to-usb-c-cable-1-m?fnode=2208a3f74724fa33198e29a17b1f3a3c42954541e1e18d408c15ce020bbe1ffb7f20a725ff6803d451b2b2cf065861b37722565385e5e1ae812c66dc35fa952064c5414a95d16900b6f75cc4df8177f9f0c4c5d48c881cd8cf9d78b46305a820999709c1c824e5f8bf7be8a9189ac629&fs=fh%3D4595%252B559a0f%252B45d4), expect this charger makes your airpods levitate.
 
 Just stick the airpods to the magnet and watch them be in mid-air. 
 
