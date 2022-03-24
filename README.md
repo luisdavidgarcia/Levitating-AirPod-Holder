@@ -1,5 +1,7 @@
 # Levitating-AirPod-Holder 🎧
 
+<img width="1075" alt="Screen Shot 2022-03-24 at 3 39 53 PM" src="https://user-images.githubusercontent.com/87344382/160021721-d6bfaa6d-eb4d-4bc2-8a08-145e83fc5bbe.png">
+
 ## Overview
 
 The levitating AirPod Holder is a Rube Goldberg machine project that lets you create a cardboard AirPod stand to hold you AirPods in mid air, until you enter a correct piano key sequence.
