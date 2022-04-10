@@ -39,6 +39,7 @@ https://user-images.githubusercontent.com/87344382/159810264-3be7b63b-1494-4f92-
 
 ## Light Detector PCB
 <img width="700" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/LightDetectorPCB.png">
+### Presoldered Light Detector PCB
 <img width="700" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/PCBFront-Luis.png">
 
 ## Metal Detector Circuit
