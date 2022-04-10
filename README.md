@@ -32,14 +32,14 @@ https://user-images.githubusercontent.com/87344382/159810264-3be7b63b-1494-4f92-
 <img width="1075" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/CAD-EE241-Circut.png">
 
 ## Piano
-<img src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/piano.png">
+<img width="1075" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/piano.png">
 
 ## Strobe Light
-<img src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/strobe.png">
+<img width="1075" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/strobe.png">
 
 ## Light Detector PCB
-<img src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/LightDetectorPCB.png">
-<img src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/PCBFront-Luis.png">
+<img width="1075" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/LightDetectorPCB.png">
+<img width="1075" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/PCBFront-Luis.png">
 
 ## Metal Detector Circuit
-<img src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/LightDetectorPCB.png">
+<img width="1075" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/LightDetectorPCB.png">
