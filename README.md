@@ -29,17 +29,17 @@ The Arduino detects if a correct piano key sequence is entered, which then activ
 https://user-images.githubusercontent.com/87344382/159810264-3be7b63b-1494-4f92-8d15-21d4e4df96ad.mp4
 
 ## Black Box Schematic with Integration Descriptions
-<img width="1075" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/CAD-EE241-Circut.png">
+<img width="700" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/CAD-EE241-Circut.png">
 
 ## Piano
-<img width="1075" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/piano.png">
+<img width="700" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/piano.png">
 
 ## Strobe Light
-<img width="1075" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/strobe.png">
+<img width="700" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/strobe.png">
 
 ## Light Detector PCB
-<img width="1075" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/LightDetectorPCB.png">
-<img width="1075" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/PCBFront-Luis.png">
+<img width="700" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/LightDetectorPCB.png">
+<img width="700" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/PCBFront-Luis.png">
 
 ## Metal Detector Circuit
-<img width="1075" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/LightDetectorPCB.png">
+<img width="700" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/LightDetectorPCB.png">
