@@ -29,3 +29,4 @@ The Arduino detects if a correct piano key sequence is entered, which then activ
 https://user-images.githubusercontent.com/87344382/159810264-3be7b63b-1494-4f92-8d15-21d4e4df96ad.mp4
 
 ## Black Box Schematic with Integration Descriptions
+<img src="CAD-EE241-Circuit.png">
