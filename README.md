@@ -12,7 +12,7 @@ To demonstrate to the integration of all these circuits a video, along with brie
 
 The piano circuit is the cardboard piece with alumnium squares tapped onto it. The piano circuit is connected with an Arduino to detect the proper key sequence. The correct sequence makes the Arduino activate the piano circuit's relay switch to the alway's on state. 
 
-As a result, th relay connects a 9V battery to the strobe light circuit, which causes the strobe light to flash and the light detector circuit to detect the light. 
+As a result, the relay connects a 9V battery to the strobe light circuit, which causes the strobe light to flash and the light detector circuit to detect the light. 
 
 The light detector circuit has a relay that is supplying current to a solenoid in a track piece. 
 
@@ -29,4 +29,4 @@ The Arduino detects if a correct piano key sequence is entered, which then activ
 https://user-images.githubusercontent.com/87344382/159810264-3be7b63b-1494-4f92-8d15-21d4e4df96ad.mp4
 
 ## Black Box Schematic with Integration Descriptions
-<img src="CAD-EE241-Circuit.png">
+<img width="1075" src="CAD-EE241-Circuit.png">
