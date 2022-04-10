@@ -26,6 +26,8 @@ and the cardboard box on the right-side of the footage is the where AirPods are 
 
 The Arduino detects if a correct piano key sequence is entered, which then activates a series of other circuits, and eventually cause the electromagnet to stop  magnetizing with the AirPods, so the AirPods drop and can be caught by the user. 
 
+Check out the code for piano and frequency detector in the directories above, and feel free to use them.
+
 https://user-images.githubusercontent.com/87344382/159810264-3be7b63b-1494-4f92-8d15-21d4e4df96ad.mp4
 
 ## Black Box Schematic with Integration Descriptions
