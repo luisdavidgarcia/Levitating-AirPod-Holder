@@ -1,6 +1,6 @@
 # Levitating-AirPod-Holder 🎧
 
-<img width="1075" alt="Screen Shot 2022-03-24 at 3 39 53 PM" src="https://user-images.githubusercontent.com/87344382/160021721-d6bfaa6d-eb4d-4bc2-8a08-145e83fc5bbe.png">
+https://user-images.githubusercontent.com/87344382/159810264-3be7b63b-1494-4f92-8d15-21d4e4df96ad.mp4
 
 ## Overview
 
@@ -28,7 +28,7 @@ The Arduino detects if a correct piano key sequence is entered, which then activ
 
 Check out the code for piano and frequency detector in the directories above, and feel free to use them.
 
-https://user-images.githubusercontent.com/87344382/159810264-3be7b63b-1494-4f92-8d15-21d4e4df96ad.mp4
+<img width="1075" alt="Screen Shot 2022-03-24 at 3 39 53 PM" src="https://user-images.githubusercontent.com/87344382/160021721-d6bfaa6d-eb4d-4bc2-8a08-145e83fc5bbe.png">
 
 ## Black Box Schematic with Integration Descriptions
 <img width="700" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/CAD-EE241-Circut.png">
