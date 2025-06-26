@@ -1,5 +1,8 @@
 # Levitating-AirPod-Holder 🎧
 
+Feeling tired or just leaving your AirPods in random places, well no longer. Instead with this Rube Goldberg machine you have an airpod holder that is held via a electronic magnet. The airpods will remain magnetized to the 
+magnet until you input the keyboard sequence in the carboard piano.
+
 https://user-images.githubusercontent.com/87344382/159810264-3be7b63b-1494-4f92-8d15-21d4e4df96ad.mp4
 
 ## Overview
