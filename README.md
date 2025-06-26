@@ -31,21 +31,22 @@ The Arduino detects if a correct piano key sequence is entered, which then activ
 
 Check out the code for piano and frequency detector in the directories above, and feel free to use them.
 
-<img width="1075" alt="Screen Shot 2022-03-24 at 3 39 53 PM" src="https://user-images.githubusercontent.com/87344382/160021721-d6bfaa6d-eb4d-4bc2-8a08-145e83fc5bbe.png">
+<img width="1075" alt="Rube Goldberg Fully Assembled" src="Images/LiveSystem.png">
 
 ## Black Box Schematic with Integration Descriptions
-<img width="700" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/CAD-EE241-Circut.png">
+<img width="700" src="Images/CAD-EE241-Circut.png">
 
 ## Piano
-<img width="700" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/piano.png">
+<img width="700" src="Images/piano.png">
 
 ## Strobe Light
-<img width="700" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/strobe.png">
+<img width="700" src="Images/strobe.png">
 
 ## Light Detector PCB
-<img width="700" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/LightDetectorPCB.png">
-Presoldered Light Detector PCB
-<img width="700" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/PCBFront-Luis.png">
+<img width="700" src="Images/LightDetectorPCB.png">
+
+### Presoldered Light Detector PCB
+<img width="700" src="Images/PCBFront-Luis.png">
 
 ## Metal Detector Circuit
-<img width="700" src="https://github.com/luisdavidgarcia/Levitating-AirPod-Holder/blob/master/MetalDetector.png">
+<img width="700" src="Images/MetalDetector.png">
